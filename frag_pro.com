@@ -5,7 +5,7 @@
   "published": false,
   "version": 1,
   "newAppLink": "",
-  "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+  "video": "https://drive.google.com/uc?id=1gqf3f1C0crMU3rLaR_mstqIxaRtFHqq4",
   "privacy": "https://gojiksosic.github.io/privacy.html",
   "spancount": 1,
   "guide": [
